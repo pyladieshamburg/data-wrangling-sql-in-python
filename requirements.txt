@@ -5,3 +5,5 @@ fugue
 SQLAlchemy
 duckdb-engine
 jupysql
+fugue_sql_antlr
+qpd
